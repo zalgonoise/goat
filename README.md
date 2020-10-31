@@ -1,5 +1,10 @@
 # goat
 
+![CI](https://github.com/ZalgoNoise/goat/workflows/CI/badge.svg)
+
+____________
+
+
 ### Google OAuth2 Test tools for Gmail
 
 A Google OAuth2 Test environment with Gmail and Mutt, using Google's OAuth2, in a simple, lightweight Docker image.
